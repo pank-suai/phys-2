@@ -9,11 +9,11 @@
 
 
 #show: ilm.with(
-  title: [Название],
+  title: [Физика],
   author: 
     "Панков Василий <pank-su>",
   date: datetime.today(),
-  abstract: [Кто введёт? Насколько краткий конспект? на чём основан?],
+  abstract: [Конспект по лекциям],
   table-of-contents: outline(depth: 2),
   preface: [  ],
   external-link-circle: false

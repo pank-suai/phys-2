@@ -19,7 +19,7 @@
   external-link-circle: false
 )
 
-#include "src/000_введение.typ"
+#include "src/001_магнитизм.typ"
 
 
 /*

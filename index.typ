@@ -13,13 +13,14 @@
   author: 
     "Панков Василий <pank-su>",
   date: datetime.today(),
-  abstract: [Конспект по лекциям],
+  abstract: [Конспект по лекциям + материалы Коваленко],
   table-of-contents: outline(depth: 2),
-  preface: [  ],
   external-link-circle: false
 )
 
-#include "src/001_магнитизм.typ"
+#include "src/000_база.typ"
+
+#include "src/001_магнетизм.typ"
 
 
 /*

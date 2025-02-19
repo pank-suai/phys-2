@@ -9,17 +9,18 @@
 
 
 #show: ilm.with(
-  title: [Название],
+  title: [Физика],
   author: 
     "Панков Василий <pank-su>",
   date: datetime.today(),
-  abstract: [Кто введёт? Насколько краткий конспект? на чём основан?],
+  abstract: [Конспект по лекциям + материалы Коваленко],
   table-of-contents: outline(depth: 2),
-  preface: [  ],
   external-link-circle: false
 )
 
-#include "src/000_введение.typ"
+#include "src/000_база.typ"
+
+#include "src/001_магнетизм.typ"
 
 
 /*

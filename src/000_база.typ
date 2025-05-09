@@ -176,7 +176,6 @@ $
 
 / Ток: это движение упорядоченных заряженных частиц.
 
-#figure(image("images/002_эл_ток.png", width: 50%))
 
 $
   p Delta a dot v Delta t = Delta q = j Delta a Delta \
